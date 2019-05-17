@@ -1,4 +1,4 @@
-#Política de Privacidade
+# Política de Privacidade
 
 Data de vigência: 17 de Maio de 2019
 O Grupo de Pesquisa INTERA (Inteligência em Tecnologias Educacionais e Recursos Acessíveis) ("nós", "nós" ou "nosso") opera o site www.aprendaprogramar.info (doravante referido como o "Serviço").
