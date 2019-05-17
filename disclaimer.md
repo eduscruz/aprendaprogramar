@@ -1,6 +1,7 @@
 # Política de Privacidade
 
 Data de vigência: 17 de Maio de 2019
+
 O Grupo de Pesquisa INTERA (Inteligência em Tecnologias Educacionais e Recursos Acessíveis) ("nós", "nós" ou "nosso") opera o site www.aprendaprogramar.info (doravante referido como o "Serviço").
 
 O domínio aprendaprogramar.info foi cedido pela Firevia Technology para o grupo de pesquisa INTERA no período de 17 de Maio de 2019 à 30 de Junho de 2019. A Firevia Technology não é responsável pelo conteúdo publicado, por dados coletados através do domínio aprendaprogramar.info ou por sistemas hospedados nesse domínio durante esse período.
