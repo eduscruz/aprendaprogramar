@@ -32,7 +32,7 @@ Aulas totalmente online (videoaulas e atividades), a qualquer hora, em qualquer 
 A carga horária do curso é de 36 horas.
 
 Vagas:
-80 vagas
+100 vagas
 
 Critérios de Seleção 
 xx vagas para público interno UFABC
